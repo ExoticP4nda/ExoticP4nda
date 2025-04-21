@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Ciao, sono uno studente appassionato di tecnologia!
 
-<!--
-**ExoticP4nda/ExoticP4nda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto sul mio profilo GitHub! 🎓💻
 
-Here are some ideas to get you started:
+## 📚 Chi sono
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Sto studiando per migliorarmi nel campo della programmazione.
+- 🚀 Sono curioso e mi piace imparare cose nuove ogni giorno.
+- 🧠 Al momento sto approfondendo concetti di programmazione, algoritmi e sviluppo web.
+
+## 💻 Cosa sto imparando
+
+- 👨‍💻 Linguaggi: `Python`, `Java`, `HTML`, `CSS`, `JavaScript`
+- 🛠️ Strumenti: `VS Code`, `Git`, `GitHub`
+- 🌐 Web Dev: basi di `HTML`, `CSS`, `JavaScript`
+
+## 🎯 Obiettivi
+
+- ✅ Migliorare nella programmazione
+- ✅ Comprendere come usare GitHub
